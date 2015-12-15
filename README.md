@@ -1,5 +1,5 @@
 # Moulifillit
-test de grilles pour Fillit
+Test de grilles pour Fillit
 
 Placez tous ces fichiers a la racine du dossier, où se trouvent les fichiers c
 Placez y aussi votre libft.a
